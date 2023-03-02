@@ -1,0 +1,16 @@
+body { background-color:blanchedalmond;
+
+}
+
+hr {
+    border-style: dotted none none;
+    width: 3%;
+    border-color: grey;
+    border-width: 5px;
+}
+h1 {
+    color: rgb(177, 37, 37);
+}
+h3 {
+    color: #66BFBF;
+}
